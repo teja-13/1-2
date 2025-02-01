@@ -45,7 +45,7 @@ body {
 
 /* Glassmorphism effect for subject boxes */
 .box {
-    background: rgba(255, 255, 255, 0.1);
+    background: #727D73;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     color: white;
